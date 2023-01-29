@@ -1,0 +1,17 @@
+h1{
+    font-size: 40px;
+}
+
+h1,h2,h3,a{
+    color: rgb(163, 32, 32);
+    background-color: rgb(240, 168, 160);
+}
+
+p, li{
+    color: rgb(240, 168, 160);
+    background-color: rgb(163, 32, 32);
+}
+
+a{
+    font-size: 20px;
+}
